@@ -1,3 +1,5 @@
+package maybep
+
 import scala.util.Random
 
 sealed trait Maybe[+T]
