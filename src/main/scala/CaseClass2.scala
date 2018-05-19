@@ -16,3 +16,6 @@ object CaseClass2 extends App {
   println(s"user1 == user2 : ${user1 == user2}")
 
 }
+
+
+

@@ -2,7 +2,6 @@ package cc1
 case class User(id: Long, name: String, raid: String)
 
 object CaseClass1 extends App {
-
   val user1 = User(1,"algalon","ulduar")
   val user2: User = User(2,"yoggsaron","ulduar")
 
